@@ -1,0 +1,4 @@
+ProgramName;Start;End;Cancelled;TotalTime;BreakingTime;NumberBreaks;Process1Time;Process1Length;Process1Starts;Process2Time;Process2Length;Process2Starts;Process3Time;Process3Length;Process3Starts;Process4Time;Process4Length;Process4Starts;RapidTime;RapidLength;RapidStarts
+4163;2025-07-18 02:38:38;2025-07-18 05:14:58;False;9375;4703;47;940;37786.5234375;71;0;0;0;0;0;0;0;0;0;1054;229554;172
+4183;2025-07-18 06:00:31;2025-07-18 13:47:32;True;28020;4698;63;9591;345353.9375;466;0;0;0;0;0;0;0;0;0;3398;489500;1258
+4409;2025-07-18 16:11:06;2025-07-18 18:59:17;False;10090;420;18;5254;191630.234375;197;0;0;0;0;0;0;0;0;0;919;155499;418
